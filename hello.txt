@@ -2,3 +2,4 @@
 "This is my second Git test." 
 This line was added from GitHub!
 "This is a new line from feature-update branch." 
+"Hello again from feature-2!" 
